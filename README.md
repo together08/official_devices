@@ -33,3 +33,4 @@ If your application is successful,you will be added into our official group(you 
 | 长生zzz  | Icon Design | ------------- | ------------- |
 | DiseR | System Development | Redmi Note 7 Pro | violet |
 | 凛凛凛个鳖(baolong24) | Device Maintainer | Redmi Note 4(X),Google Pixel & Pixel XL | marlin,sailfish,mido |
+| 巨龙Jvlong |  | Marketing team/Website Instruction | Meizu 16th Plus | m1892 |
